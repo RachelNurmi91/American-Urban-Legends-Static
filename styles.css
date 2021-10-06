@@ -1,0 +1,122 @@
+body {
+    background-image: url('images/Top-Campfire.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 0.9rem;
+    line-height: 2;
+}
+
+h1, h6 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-transform: uppercase;
+    color: #e5c8ad;
+    font-weight:bold;
+    text-align: center;
+    padding-bottom: 3%;
+    }
+
+h6 {
+    color: #d17f35;
+}
+
+
+p {
+    padding: 0 10%;
+}
+
+.icon {
+    text-align: center;
+    padding: 5%;
+}
+
+.navbar {
+    background-color: #672212;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-nav {
+    margin-left: 25%;
+    padding-right: 50px;
+    
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.884);
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #e5c8ad;
+  font-weight:bold;
+}
+
+.logo-font {
+    font-size: 1.5rem;
+    font-family: 'ZCOOL KuaiLe', cursive
+}
+
+.map {
+    margin: auto;
+    height: 35em;
+}
+
+.northeast{
+    background-color:#060606 ;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.midwest{
+    background-color:#060606e1;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.west{
+    background-color:#060606;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.southwest{
+    background-color:#060606e1;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.southeast{
+    background-color: #060606;
+    padding: 5% 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 187);
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #e0b895;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #672212;
+    text-align: center;
+    font-size: .75em;
+    padding: 1%;
+}
