@@ -5,13 +5,13 @@ Created a website with multiple landing pages using the Bootstrap library, custo
 `View the active site:` https://rachelnurmi91.github.io/AmericanUrbanLegends/
 
 ### Built with
-
-- JavaScript
 - HTML
 - CSS
 - Bootstrap
 - Visual Studio Code
 
+### What I learned
+During this project I learned how to customize bootstraps pre-set css classes. I was challened to make their genertic nav bar into one that fit the color scheme and design of the website. I also learned how to impliment a "to the top" button in order to bring viewers to the top of a long landing page. For this button I had to combind my prior CSS skills with JavaScript functions.
 
 ### Screenshots
 ![GitHub Logo](/images/Screen-AmericanUrban.png)
