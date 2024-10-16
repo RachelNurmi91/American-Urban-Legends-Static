@@ -1,5 +1,6 @@
 > **NOTICE:** This application has been redesigned to be dynamic through the use of React. The newest repo can be found [here](https://github.com/RachelNurmi91/American-Urban-Legends).
-> > [!NOTE]  
+
+> [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
 # AmericanUrbanLegends
