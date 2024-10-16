@@ -1,7 +1,5 @@
-> **NOTICE:** This application has been redesigned to be dynamic through the use of React. The newest repo can be found [here](https://github.com/RachelNurmi91/American-Urban-Legends).
-
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+>  **NOTICE:** This application has been redesigned to be dynamic through the use of React. The newest repo can be found [here](https://github.com/RachelNurmi91/American-Urban-Legends).
 
 # AmericanUrbanLegends
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
