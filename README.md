@@ -11,10 +11,13 @@ Created a website with multiple landing pages using the Bootstrap library, custo
 
 `View the active site:` https://rachelnurmi91.github.io/AmericanUrbanLegends/
 
-### Built with
-- HTML
-- CSS
-- Bootstrap
+### Technologies
+* JavaScript
+* HTML
+* CSS
+
+### Packages:
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Project Screenshots
 ![GitHub Logo](/images/Screen-AmericanUrban.png)
