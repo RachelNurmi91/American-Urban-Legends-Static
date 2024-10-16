@@ -17,7 +17,7 @@ Created a website with multiple landing pages using the Bootstrap library, custo
 * HTML
 * CSS
 
-### Packages:
+### Packages
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Project Screenshots
